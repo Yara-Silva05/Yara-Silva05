@@ -1,9 +1,9 @@
-### Oie, bem vindo(a) ao meu GitHub! 
+### Oie, bem vindo(a) ao meu GitHub! 😸
 
 ## Sobre mim:
 <div>
   <p>
-   Me chamo Yara tenho 20 anos e sou estudante e desenvolvedora júnior com foco em Back-end, utilizando Java e o ecossistema Spring.
+   Me chamo Yara tenho 20 anos sou estudante e desenvolvedora júnior com foco em Back-end, utilizando Java e o ecossistema Spring. No momento estou cursando Engenharia de software na UniCesumar e fazendo cursos pela alura em parceria com o One Oracle para adquirir mais conhecimentos.
   </p>
 </div>
 
